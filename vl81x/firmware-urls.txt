@@ -1,0 +1,6 @@
+https://s3.amazonaws.com/plugable/bin/UD-3X00_9095_28updater.exe
+https://s3.amazonaws.com/plugable/bin/UD-3X00_983_28updater.exe
+https://s3.amazonaws.com/plugable/bin/VL811%2B-9095_28updater.exe
+https://s3.amazonaws.com/plugable/bin/VL811-983_28updater.exe
+https://s3.amazonaws.com/plugable/bin/VL811-983.exe
+https://www.via-labs.com/archive/doc/Usb3HubFWUpgrade_Setup_V1.1_VL811_0983.zip
